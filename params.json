@@ -1,0 +1,6 @@
+{
+  "name": "Correlation and Contagion",
+  "tagline": "R Code for \"Correlation and Contagion: Measuring Systematic Risk with Semiparametric Methods\"",
+  "body": "# R Code for \"Correlation and Contagion: Measuring Systematic Risk with Semiparametric Methods\". \r\n\r\nContains full working code for all estimation procedures in for measuring systematic risk in financial portfolios with the introduced methodologies in the thesis. The central code is MLEandCAViaR-FullCode.R with other .R files containing specific functions or processes.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
